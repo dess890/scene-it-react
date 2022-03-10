@@ -8,13 +8,14 @@ _Scene-it_ is an application that allows for users to search for movies of their
 
 #### 2: Add to your personalized watchlist
 
-![Scene-it-screenshot](https://user-images.githubusercontent.com/87389186/157728962-bcda0122-9657-48b2-a403-d7846289170e.png)
+![Scene-it-screenshot](https://user-images.githubusercontent.com/87389186/157729970-337135f1-22e1-4599-8649-420a65363ba6.png)
 
 ## Technologies
 
 #### **Front End**:
 
 - React/Redux
+- React Router
 - Chakra UI
 - CSS
 - HTML
@@ -22,15 +23,4 @@ _Scene-it_ is an application that allows for users to search for movies of their
 #### **Back End**:
 
 - Node.js/Express
-- PostgreSQL
-- Sequelize
-- Twitter & Facebook APIs
-- Postman (for testing)
 
-## Contributors
-
-#### [Des](https://github.com/dess890)
-
-#### [Cayden](https://github.com/Forlaenu)
-
-#### [Noah](https://github.com/Niche-Quiche)
