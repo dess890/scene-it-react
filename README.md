@@ -8,7 +8,7 @@ _Scene-it_ is an application that allows for users to search for movies of their
 
 #### 2: Add to your personalized watchlist
 
-![Scene-it-screenshot](https://user-images.githubusercontent.com/87389186/157729970-337135f1-22e1-4599-8649-420a65363ba6.png)
+![Scene-it-screenshot](https://user-images.githubusercontent.com/87389186/157730599-228839c4-5548-448d-bf15-f3e367abd569.png)
 
 ## Technologies
 
