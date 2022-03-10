@@ -8,7 +8,7 @@ _Scene-it_ is an application that allows for users to search for movies of their
 
 #### 2: Add to your personalized watchlist
 
-![Scene-it-screenshot](https://user-images.githubusercontent.com/78816489/157549246-8bcc9336-b4d6-4d0c-88e4-69adddd2d408.jpg)
+![Scene-it-screenshot](https://user-images.githubusercontent.com/87389186/157728962-bcda0122-9657-48b2-a403-d7846289170e.png)
 
 ## Technologies
 
@@ -16,7 +16,7 @@ _Scene-it_ is an application that allows for users to search for movies of their
 
 - React/Redux
 - Chakra UI
-- SCSS
+- CSS
 - HTML
 
 #### **Back End**:
