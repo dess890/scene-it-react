@@ -22,5 +22,5 @@ _Scene-it_ is an application that allows for users to search for movies of their
 
 #### **Back End**:
 
-- Node.js/Express
+- Node.js
 
